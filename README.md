@@ -6,7 +6,7 @@
 
 ### 🧠 About Me
 
-- 🎓 Currently pursuing **Master of Computer Applications (MCA)** from **Anna University**
+- 🎓 Completed **Master of Computer Applications (MCA)** from **Anna University**
 - 💻 I build real-world applications using **Flutter**, **Spring Boot**, and modern web technologies
 - 🔍 Enthusiastic about clean architecture, performance optimization, and scalable systems
 - 🌱 Currently working on: An **online sweets ordering app** using **Flutter**, **Firebase**, and **MySQL**
@@ -15,7 +15,7 @@
 
 ### 💼 Skills & Tools
 
-- **Languages:** Dart, JavaScript, Java, Python, C++, SQL  
+- **Languages:** Dart, JavaScript, Java, Python, SQL  
 - **Mobile & Frontend:** Flutter, HTML5, CSS3, Bootstrap, Tailwind CSS  
 - **Backend:** Spring Boot, Node.js, Express.js, Firebase, MySQL  
 - **Tools:** Git, GitHub, VS Code, IntelliJ, Postman, Figma  
